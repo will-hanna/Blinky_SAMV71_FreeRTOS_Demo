@@ -1,0 +1,6 @@
+09:36:42 **** Build of configuration Debug for project blinky-test ****
+make all 
+make: *** No rule to make target 'src/Timer.o', needed by 'blinky-test.elf'.  Stop.
+
+09:36:42 Build Finished (took 195ms)
+

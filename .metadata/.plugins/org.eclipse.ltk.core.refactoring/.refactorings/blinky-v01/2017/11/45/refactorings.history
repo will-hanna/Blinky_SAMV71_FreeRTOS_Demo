@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;blinky-v01/LinkerScripts&apos; to &apos;ldscripts&apos;" description="Rename resource &apos;LinkerScripts&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="LinkerScripts" name="ldscripts" stamp="1510407618130" updateReferences="true"/>
+</session>
